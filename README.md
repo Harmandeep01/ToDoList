@@ -51,7 +51,7 @@ project/
    - When the page reloads, tasks are loaded from localStorage.
 
 ## Demo
-A live demo of the application can be hosted on platforms like GitHub Pages or Netlify.
+A live demo of the application can be viewed on [vercel](https://to-do-list-wheat-alpha-12.vercel.app/) .
 
 ## Future Enhancements
 - Add due dates for tasks.
@@ -63,17 +63,16 @@ A live demo of the application can be hosted on platforms like GitHub Pages or N
 1. **Main View:**
    The default view of the To-Do list.
 
-   ![Main View](img/screenshots/main.png)
+    <img src="img/screenshots/main.png" alt="Main View" width="300" height="">
 
 2. **Adding a Task:**
    Example of adding a task to the list.
 
-   ![Adding Task](img/screenshots/addtask.png)
-
+   <img src="img/screenshots/addtask.png" alt="Main View" width="300" height="">
 3. **Marking as Completed:**
    Marking tasks as completed by clicking on them.
 
-   ![Completed Task](img/screenshots/complete.png)
+   <img src="img/screenshots/complete.png" alt="Main View" width="300" height="">
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
